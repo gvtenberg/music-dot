@@ -1,0 +1,18 @@
+body {
+    font-family: Arial, sans-serif; /* Na página toda: trocar a família da fonte de toda a página */
+}
+
+h1 {
+    color: #3D3D3D; /* No título principal: alterar a cor da fonte para um cinza-escuro "#3D3D3D" */
+    background-color: #E1EDF2; /* No título principal: colocar uma cor de fundo cinza-azulado "#E1EDF2" */
+}
+
+h2 {
+    border-bottom: 2px solid; /* Nos subtítulos: colocar uma borda na parte de baixo */
+}
+
+figure {
+    text-align: center; /* Nas figuras: centralizar o conteúdo */
+    background-color: whitesmoke; /* Nas figuras: colocar uma cor de fundo chamada "whitesmoke" */
+    color: lightgrey; /* Nas figuras: alterar a cor da fonte para um cinza-claro "lightgrey" */
+}
