@@ -1,10 +1,14 @@
 body {
     font-family: Arial, sans-serif; /* Na página toda: trocar a família da fonte de toda a página */
+    width: 940px; /* Diminuir a largura do conteúdo da página para 940px */
+    margin: 0 auto; /* Para que o conteúdo não fique colado no canto da página, afaste ele dos cantos
+                    direito e esquerdo da tela, até que fique centralizado. */
 }
 
 h1 {
     color: #3D3D3D; /* No título principal: alterar a cor da fonte para um cinza-escuro "#3D3D3D" */
     background-color: #E1EDF2; /* No título principal: colocar uma cor de fundo cinza-azulado "#E1EDF2" */
+    padding: 10px; /* Criar um espaço de respiro interno de 10px para o conteúdo do título principal */
 }
 
 h2 {
@@ -15,4 +19,10 @@ figure {
     text-align: center; /* Nas figuras: centralizar o conteúdo */
     background-color: whitesmoke; /* Nas figuras: colocar uma cor de fundo chamada "whitesmoke" */
     color: lightgrey; /* Nas figuras: alterar a cor da fonte para um cinza-claro "lightgrey" */
+    padding: 15px; /* Criar um espaço de respiro interno de 15px para o conteúdo das figuras */
+    margin: 30px; /* Afastar 30px as figuras dos cantos da tela e das caixas que vêm antes e depois delas */
+}
+
+figcaption {
+    padding: 10px; /* Dentro das figuras, afastar 10px a legenda da imagem */
 }
