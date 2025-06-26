@@ -1,7 +1,7 @@
 
 # Introdução à Construção de Páginas Web
 
-Este repositório faz parte da disciplina Introdução à Construção de Páginas Web do Curso de Sistemas para Internet do IFTO, e contém um projeto de site fictício chamado [MusicDot](https://gvtenberg.github.io/music-dot/) (em construção durante as aulas).
+Este repositório faz parte da disciplina Introdução à Construção de Páginas Web do Curso de Sistemas para Internet, e contém um projeto de site fictício chamado [MusicDot](https://gvtenberg.github.io/music-dot/) (em construção durante as aulas).
 
 
 ## Como usar
