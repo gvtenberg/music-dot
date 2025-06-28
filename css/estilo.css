@@ -26,3 +26,19 @@ figure {
 figcaption {
     padding: 10px; /* Dentro das figuras, afastar 10px a legenda da imagem */
 }
+
+#figure-matriz {
+    width: 550px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#figure-familia {
+    width: 275px;
+    display: block;
+    float: right;
+}
+
+figure img {
+    width: 100%;
+}
