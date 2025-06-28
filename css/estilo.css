@@ -5,13 +5,13 @@ body {
                     direito e esquerdo da tela, até que fique centralizado. */
 }
 
-h1 {
+.h1-style {
     color: #3D3D3D; /* No título principal: alterar a cor da fonte para um cinza-escuro "#3D3D3D" */
     background-color: #E1EDF2; /* No título principal: colocar uma cor de fundo cinza-azulado "#E1EDF2" */
     padding: 10px; /* Criar um espaço de respiro interno de 10px para o conteúdo do título principal */
 }
 
-h2 {
+.h2-style {
     border-bottom: 2px solid; /* Nos subtítulos: colocar uma borda na parte de baixo */
 }
 
@@ -27,18 +27,18 @@ figcaption {
     padding: 10px; /* Dentro das figuras, afastar 10px a legenda da imagem */
 }
 
-#figure-matriz {
+#figure-matriz { /* Figure com largura de 550px e centralizada na página */
     width: 550px;
     margin-left: auto;
     margin-right: auto;
 }
 
-#figure-familia {
+#figure-familia { /* Figure com largura de 275px e flutuando à direita na página */
     width: 275px;
     display: block;
     float: right;
 }
 
-figure img {
+figure img { /* Imagens ocupando 100% da figure */
     width: 100%;
 }
