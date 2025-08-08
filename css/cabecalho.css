@@ -1,0 +1,14 @@
+body {
+    font-family: "Montserrat";
+    color: #2e4255;
+}
+
+header {
+    background-color: #2D5377;
+    color: #FFF;
+}
+
+a {
+    color: inherit;
+    text-decoration: inherit;
+}
