@@ -42,3 +42,24 @@ figcaption {
 figure img { /* Imagens ocupando 100% da figure */
     width: 100%;
 }
+
+div {
+    margin-bottom: 10px; /* Espaçamento de 10px entre cada campo do formulário */
+}
+
+input, textarea {
+    width: 500px;
+    height: 30px;
+}
+
+textarea {
+    height: 300px;
+}
+
+button {
+    width: 100px;
+    height: 50px;
+    background-color: white;
+    color: black;
+    font-weight: bold;
+}
